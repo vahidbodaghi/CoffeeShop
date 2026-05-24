@@ -5,6 +5,12 @@
 
 "This is a portfolio website template for a cafe, designed and implemented using the modern CSS framework **Tailwind CSS**. The project focuses on showcasing a responsive design and delivering a clean, modern user experience."
 
+---
+
+## 🚀 Live Demo
+
+https://vahidbodaghi.github.io/CoffeeShop/
+
 ## 🚀 Features
 
 
