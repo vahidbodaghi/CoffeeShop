@@ -1,7 +1,7 @@
 
 # CoffeShop
 
-![CoffeeShope](public/images/Screenshot%202026-04-24%20192512.png)
+![CoffeeShope](images/Screenshot%202026-04-24%20192512.png)
 
 "This is a portfolio website template for a cafe, designed and implemented using the modern CSS framework **Tailwind CSS**. The project focuses on showcasing a responsive design and delivering a clean, modern user experience."
 
